@@ -2,7 +2,7 @@
 
 Projeto desenvolvido para a disciplina **Mastering Relational and Non-Relational Database** da FIAP.
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 O **PetCare 360** é uma solução voltada ao monitoramento inteligente de pets utilizando dispositivos IoT e banco de dados relacional.
 
@@ -10,7 +10,7 @@ O sistema permite o cadastro de usuários, pets, dispositivos de monitoramento, 
 
 ---
 
-## 🗂 Estrutura do Banco de Dados
+## Estrutura do Banco de Dados
 
 O banco foi modelado utilizando Oracle SQL Developer Data Modeler e possui as seguintes tabelas:
 
@@ -24,7 +24,7 @@ O banco foi modelado utilizando Oracle SQL Developer Data Modeler e possui as se
 
 ---
 
-## ⚙️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Oracle Database 11g
 - PL/SQL
@@ -32,7 +32,7 @@ O banco foi modelado utilizando Oracle SQL Developer Data Modeler e possui as se
 
 ---
 
-## 📚 Conteúdos Aplicados
+## Conteúdos Aplicados
 
 O projeto contempla os principais tópicos estudados na disciplina:
 
@@ -50,7 +50,7 @@ O projeto contempla os principais tópicos estudados na disciplina:
 
 ---
 
-## 🧠 Funcionalidades Desenvolvidas
+## Funcionalidades Desenvolvidas
 
 - Cadastro de usuários
 - Cadastro de pets
@@ -63,7 +63,7 @@ O projeto contempla os principais tópicos estudados na disciplina:
 
 ---
 
-## 👨‍💻 Integrantes
+## Integrantes
 
 - Arthur Correia Delila - RM563806
 - Gabriel Henrique Souza Goncalves - RM563732
@@ -73,6 +73,6 @@ O projeto contempla os principais tópicos estudados na disciplina:
 
 ---
 
-## 📄 Observações
+## Observações
 
 Este projeto possui finalidade acadêmica e foi desenvolvido como parte da Sprint 1 do Challenge FIAP 2026.
